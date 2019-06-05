@@ -1,12 +1,16 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammates' contact info, if appropriate)
+Megan Visaya, mvisaya@ucsd.edu
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+In the spirit of this class, of my identity as an engineer, and of my faith, I wanted to highlight the relationship between the 
+aesthetics of patterns found in nature using imagery that is often studied by biologists, astronomers, physicists, etc. 
+I hope to create outputs that reflect the consistency, stability, and beauty of these structures, and start a conversation on how they 
+can be used as a confirmation of the mastery of a Creator or evidence against Their existence. I plan to use a visual GAN to
+produce images that emphasize these patterns by training a discriminator with alike images that depict different objects (e.g., cells 
+vs. supernovas, neural pathways vs. superclusters, honeycombs vs. turtle shells), and will display my results digitally for our final 
+presentations.
 
 ## Project Report
 
