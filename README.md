@@ -20,13 +20,12 @@ Upload your project report (4 pages) as a pdf with your repository, following th
 
 Briefly describe the files that are included with your repository:
 - trained models
-- training data (or link to training data)
+- Please download the dataset here (400~ MB): https://drive.google.com/file/d/1ccJBDSJXagpVSkpvbKEyB5NzlrAROBLJ/view?usp=sharing 
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+For generating training data:
+- Python: img_downloads.ipynb
 
 ## Results
 
