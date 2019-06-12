@@ -12,40 +12,33 @@ produce images that emphasize these patterns by training a discriminator with al
 vs. supernovas, neural pathways vs. superclusters, honeycombs vs. turtle shells), and will display my results digitally for our final 
 presentations.
 
+EDIT: Clarification on final results, in contrast with this abstract proposal, can be found in the report include in the repository.
+
 ## Project Report
 
-Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing).
+Included as ECE188_FinalProject_Report.pdf
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
+- Included are the scripts for downloading data using the Google Image scraper and for running the GAN.
 - Please download the dataset here (400~ MB): https://drive.google.com/file/d/1ccJBDSJXagpVSkpvbKEyB5NzlrAROBLJ/view?usp=sharing 
 
 ## Code
 
 For generating training data:
 - Python: img_downloads.ipynb
+To run the GAN:
+- Python: FinalProjectGAN.py
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- What you include here will very much depend on the format of your final project
-  - image files (`.jpg`, `.png` or whatever else is appropriate)
-  - 3d models
-  - movie files (uploaded to youtube or vimeo due to github file size limits)
-  - audio files
-  - ... some other form
+In the Results folder are examples that I chose to print for my final presentation. 
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+PIL and the Google Image Scraper (see references) can be pip installed and must be imported for script to run.
 
-## Reference
+## References
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+https://github.com/hardikvasa/google-images-download : Google Image scraper
+https://github.com/t0nberryking/DCGAN256.git : Base GAN to produce 256x256 images
