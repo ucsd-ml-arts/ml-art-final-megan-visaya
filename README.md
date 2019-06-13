@@ -27,6 +27,7 @@ Included as ECE188_FinalProject_Report.pdf
 
 For generating training data:
 - Python: img_downloads.ipynb
+
 To run the GAN:
 - Python: FinalProjectGAN.py
 
